@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### 💼 Portfolio
 - [wallfl🌼wer](https://github.com/jacob-sauve/wallflower), a TTS/STT-powered active-listening studying tool.
 - [GLOBO](https://devpost.com/software/globo-oql04v), a whimsical flight searching tool with a globe User Interface.
+- [Jacobatrice 4500](https://jacobnet.w3spaces.com/), a HTML/CSS/JS calculator with animations, and programmed error detection and messages.
 
 ### 💾 Current Projects
 - RBPi Home Server
