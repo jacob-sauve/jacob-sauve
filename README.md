@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - [GLOBO](https://devpost.com/software/globo-oql04v), a whimsical flight searching tool with a globe User Interface.
 - [Jacobatrice 4500](https://jacobnet.w3spaces.com/), a HTML/CSS/JS calculator with animations, and programmed error detection and messages.
 
-### 💾 Current Projects
+### 💾 Upcoming Projects
 - RBPi Home Server
 - WhatsApp POP client
 - [QRcodegen](https://github.com/nayuki/QR-Code-generator/)/[NETunnel](https://github.com/claroty/netunnel) [Jackbox](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)-esque party video games
 - Poetry repository
+- Documentation scraper
+- Poster planner
