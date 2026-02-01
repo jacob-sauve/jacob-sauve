@@ -1,4 +1,4 @@
-## Howdy 👋 The Name's Jacob
+## Howdy! 👋 The Name's Jacob
 
 <!--
 **jacob-sauve/jacob-sauve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Stats -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=259 src="./media/langs.svg" alt="Jacob Sauvé's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=240 src="./media/stats.svg" alt="Jacob Sauvé's Github stats" />
-</a>
-</div>
-<br/>
+### 💬 About Me
+- Name: Jacob Sauvé
+- Pronouns: He/Him
+- [LinkedIn](https://www.linkedin.com/in/jacob-l-sauve-04a099335)/[DevPost](https://devpost.com/jacob-sauve?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-<!-- Linkedin Link -->
-<a href="https://www.linkedin.com/in/jacob-l-sauve-04a099335">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA" alt="Connect with me on Linkedin" >
-</a>
+### 💼 Portfolio
+- [wallfl🌼wer](https://github.com/jacob-sauve/wallflower), a TTS/STT-powered active-listening studying tool.
+- [GLOBO](https://devpost.com/software/globo-oql04v), a whimsical flight searching tool with a globe User Interface.
+
+### 💾 Current Projects
+- RBPi Home Server
+- WhatsApp POP client
+- [QRcodegen](https://github.com/nayuki/QR-Code-generator/)/[NETunnel](https://github.com/claroty/netunnel) [Jackbox](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)-esque party video games
+- Poetry repository
