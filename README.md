@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Name: Jacob Sauvé
 - Pronouns: He/Him
 - [LinkedIn](https://www.linkedin.com/in/jacob-l-sauve-04a099335)/[DevPost](https://devpost.com/jacob-sauve?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- Neovim on top 🗣️‼️
+- Neovim on top 🗣️‼️ (_check out [my config](https://github.com/jacob-sauve/Configs/)_)
 
 ### 💼 Portfolio
 - [wallfl🌼wer](https://github.com/jacob-sauve/wallflower), a TTS/STT-powered active-listening studying tool. Developed during ConUHacks X.
