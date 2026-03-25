@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Neovim on top 🗣️‼️ (_check out [my config](https://github.com/jacob-sauve/Configs/)_)
 
 ### 💼 Portfolio
+- [umple-offline](https://github.com/jacob-sauve/umple-offline), a lua script to enable Umple diagram visualisation within Nvim.
 - [Ripper](https://github.com/jacob-sauve/Ripper), integrated software for an autonomous, RBPi-based hospital delivery robot. _Developed for ECSE 211 at McGill._
 - [wallfl🌼wer](https://github.com/jacob-sauve/wallflower), a TTS/STT-powered active-listening studying tool. _Developed during ConUHacks X._
 - [GLOBO](https://devpost.com/software/globo-oql04v), a whimsical flight searching tool with a globe User Interface. _Developed during Codejam 15._
