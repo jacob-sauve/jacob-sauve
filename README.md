@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Neovim on top 🗣️‼️ (_check out [my config](https://github.com/jacob-sauve/Configs/)_)
 
 ### 💼 Portfolio
+- [Ripper](https://github.com/jacob-sauve/Ripper), integrated software for an autonomous, RBPi-based hospital delivery robot, developed for ECSE 211 at McGill.
 - [wallfl🌼wer](https://github.com/jacob-sauve/wallflower), a TTS/STT-powered active-listening studying tool. Developed during ConUHacks X.
 - [GLOBO](https://devpost.com/software/globo-oql04v), a whimsical flight searching tool with a globe User Interface. Developed during Codejam 15.
 - [Jacobatrice 4500](https://jacobnet.w3spaces.com/), a HTML/CSS/JS calculator with animations, and programmed error detection and messages.
