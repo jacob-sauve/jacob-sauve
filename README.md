@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - RBPi Home Server
 - WhatsApp POP client
 - [QRcodegen](https://github.com/nayuki/QR-Code-generator/)/[NETunnel](https://github.com/claroty/netunnel) [Jackbox](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)-esque party video games
+- Firefox plugin to add vim keybinds ([firefox.nvim](https://github.com/jacob-sauve/firefox.vim))
 - Poetry repository
 - Documentation scraper
 - Poster planner
