@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 - Poetry repository
 - Documentation scraper
 - Poster planner
+- Roguelike inspired by Escher's [_Print Gallery_](https://en.wikipedia.org/wiki/Print_Gallery_(M._C._Escher))
