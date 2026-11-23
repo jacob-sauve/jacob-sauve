@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Neovim on top 🗣️‼️ (_check out [my config](https://github.com/jacob-sauve/Configs/)_)
 
 ### 💼 Portfolio
+- [LARP-scan](https://github.com/IvanGaspart/Codejam16), a [web client](https://larpscan.lovable.app), server and background service for live library occupancy detection using RSSIs
 - [Ripper](https://github.com/jacob-sauve/Ripper), integrated software for an autonomous, RBPi-based hospital delivery robot. _Developed for ECSE 211 at McGill._
 - [umple-offline](https://github.com/jacob-sauve/umple-offline), a lua script to enable Umple diagram visualisation within Nvim.
 - [leafcutter-lite](https://github.com/jacob-sauve/leafcutter-lite), a Python-based tool to give tiny, local LLMs function-calling capabilities. _Conceptualised during the McGill 2026 Claude Builders Hackathon._
